@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568124208 source:c:\users\alumno\desktop\cosa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opciones.h"
+
+1568124171 c:\users\alumno\desktop\cosa\opciones.h
+	<stdio.h>
+
+1568124761 source:c:\users\alumno\desktop\cosa\opciones.c
+	"opciones.h"
+
